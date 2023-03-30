@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @poojanshetty
-- 👀 I’m interested in Python Django
+- 👋 Hi, I’m @poojanshetty, an ambitious Software Engineer and enjoying coding. 
+- 👀 I’m interested in Python Django & Asyc Python
 - 🌱 I’m learning new technologies and stuff that adds value to my career.
 - 📫 How to reach me linkedIn: https://www.linkedin.com/in/pooja-shetty-027b46177 
-- 📚 Current learning stack on Docker, Kubernetes, Artifactory and jenkins
+- 📚 Current learning stack Docker, Kubernetes, Artifactory, Jenkins, groovy, AWS, DevOps, Vue.js, Pytest etc 
 - ☀️🌊🍉🌴⛱️Hobbies - Travelling accross countries, listening to music, explore different culture, Love nature.
 
 <!---
