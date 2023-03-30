@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @poojanshetty, an ambitious Software Engineer and enjoying coding. 
+- 👋 Hi, I’m @poojanshetty, an ambitious Software Engineer who enjoying coding. 
 - 👀 I’m interested in Python Django & Asyc Python
 - 🌱 I’m learning new technologies and stuff that adds value to my career.
 - 📫 How to reach me linkedIn: https://www.linkedin.com/in/pooja-shetty-027b46177 
