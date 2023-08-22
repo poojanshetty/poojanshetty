@@ -1,17 +1,17 @@
-# Hey there! 👋 I'm Pooja Shetty, a friendly DevOps Explorer.
+# Hello there! 👋 I'm Pooja Shetty, an ambitious and friendly DevOps Explorer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=poojanshetty)
 
 Welcome to my tech journey. Here's what you should know about me:
 
-- 🚀 I'm an ambitious DevOps Engineer with a knack for coding and innovation.
+- 🚀 I'm an ambitious DevOps Engineer with a knack for coding and leading to innovation.
 - 🌱 I'm always seeking new technologies and knowledge to elevate my career.
 - :seedling: Currently diving deep into various tech stacks to create magic with code.
 - :tada: Join me on [LinkedIn](https://www.linkedin.com/in/pooja-shetty-027b46177) for some tech talks or professional chats!
 
 ## :computer:  My Learning Playground
 
-Python | CI/CD | Docker | Kubernetes | Artifactory | Jenkins | Groovy | AWS | DevOps | Vue.js | Pytest
+Python | CI/CD | Docker | Kubernetes | Artifactory | Jenkins | Groovy | AWS | DevOps | Aumomization | Vue.js | Pytest
 
 ## ⛰️: When I'm Not Coding...
 
