@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Pooja Shetty, your friendly DevOps Explorer.
+# Hey there! 👋 I'm Pooja Shetty, a friendly DevOps Explorer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=poojanshetty)
 
