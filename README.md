@@ -1,12 +1,13 @@
-# Hello there! 👋 I'm Pooja Shetty, an ambitious DevOps Explorer.
-
+# Hello there!👋 I'm Pooja Shetty, an ambitious DevOps Explorer.
 ![Profile Views](https://komarev.com/ghpvc/?username=poojanshetty)
 
+ 
 Welcome to my tech journey. Here's what you should know about me:
 
 - 🚀 I'm an ambitious DevOps Engineer with a knack for coding and leading to innovation.
 - 🌱 I'm always seeking new technologies and knowledge to elevate my career.
 - :seedling: Currently diving deep into various tech stacks to create magic with code.
+- 💡 In my free time, I love exploring my creative side through mock projects that allow me to experiment with different technologies.
 - :tada: Join me on [LinkedIn](https://www.linkedin.com/in/pooja-shetty-027b46177) for some tech talks or professional chats!
 
 ## :computer:  My Learning Playground
