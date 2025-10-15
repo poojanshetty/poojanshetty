@@ -1,7 +1,6 @@
 # Hello there!👋😊 I'm Pooja Shetty, an ambitious DevOps Explorer.
 ![Profile Views](https://komarev.com/ghpvc/?username=poojanshetty)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojanshetty&show_icons=true&theme=radical)
 Welcome to my tech journey. Here's what you should know about me:
 
 - 🚀 I'm an ambitious DevOps Engineer with a knack for coding and leading to innovation.
@@ -29,3 +28,4 @@ You can click the Preview link to take a look at your changes.
 poojanshetty/poojanshetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojanshetty&show_icons=true&theme=radical)
