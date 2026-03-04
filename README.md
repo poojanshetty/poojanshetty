@@ -7,6 +7,7 @@ Welcome to my tech journey. Here's what you should know about me:
 - 🌱 I'm always seeking new technologies and knowledge to elevate my career.
 - :seedling: Currently diving deep into various tech stacks to create magic with code.
 - 💡 In my free time, I love exploring my creative side through mock projects that allow me to experiment with different technologies.
+- To know more about me, check my personal website 🌐: https://poojanshetty.github.io/
 - :tada: Join me on [LinkedIn](https://www.linkedin.com/in/pooja-shetty-027b46177) for some tech talks or professional chats!
 
 ## :computer:  My Learning Playground
