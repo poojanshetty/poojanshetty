@@ -1,4 +1,4 @@
-# Hello there!👋😊 I'm Pooja Shetty, an ambitious DevOps Explorer.
+# Hello there!👋😊 I'm Pooja Shetty, an ambitious Python Developer and DevOps Explorer.
 ![Profile Views](https://komarev.com/ghpvc/?username=poojanshetty)
 
 Welcome to my tech journey. Here's what you should know about me:
