@@ -6,7 +6,7 @@
 # 👩‍💻 Pooja Shetty  
 
 📍 Bangalore, India  
-🤖 AI-Focused Backend Engineer | Python Developer | Data Analyst | ☁️ DevOps & Platform Builder  
+🤖 Data Driven | Python Developer | Data Analyst | ☁️ DevOps & Platform Builder | Application support Engineer
 
 **Building reliable platforms, intelligent automation systems, and scalable cloud products.**  
 I enjoy transforming complex problems into clean architecture, resilient pipelines, and real-world production-ready applications.  
